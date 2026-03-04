@@ -13,6 +13,27 @@
 - 🌏 Based in the Philippines
 
 ---
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode)
+
+---
 
 ## 🚀 Featured Projects
 
