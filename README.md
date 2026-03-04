@@ -126,7 +126,7 @@ mindset:        "Engineering with a Designer's eye."
 | System | Architectural Impact | Technology Stack |
 |:---|:---|:---|
 | **LumiCHAT** | Spearheaded a scalable mental health ecosystem processing AI-driven student support cycles and automated triage. | Laravel, React, Rasa AI, MySQL |
-| **Enterprise SMS** | Architected an enterprise-grade sales monitoring system automating supply-chain workflows and real-time data sync. | Laravel, Blade Patterns, High-Concurrency MySQL |
+| **Refilling Station Sales Monitoring System** | Architected an enterprise-grade sales monitoring system automating supply-chain workflows and real-time data sync. | Laravel, Blade Patterns, High-Concurrency MySQL |
 
 ---
 
