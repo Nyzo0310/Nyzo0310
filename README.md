@@ -135,8 +135,6 @@ mindset:  "Clean code. Clean UI. Strong UX."
 
 ---
 
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
