@@ -1,91 +1,157 @@
-# 👋 Hello, I'm Earl Sepida
+<div align="center">
 
-💻 Frontend Developer | UI/UX Enthusiast  
-🚀 Focused on building modern web applications with clean UI and strong user experience.
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:7c3aed,100:4f46e5&height=200&section=header&text=Earl%20Sepida&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descSize=20&descAlignY=58&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+
+<!-- Typing Animation SVG -->
+<a href="https://github.com/Nyzo0310">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Earl+Sepida!;💻+Frontend+Developer;🎨+UI%2FUX+Enthusiast;🚀+Building+Modern+Web+Apps;🤖+Working+on+AI+%26+CRM+Systems" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Nyzo0310&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/Nyzo0310?tab=followers">
+    <img src="https://img.shields.io/github/followers/Nyzo0310?label=Followers&style=for-the-badge&color=6d28d9&logo=github&logoColor=white" alt="Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To%20Work-✅-4ade80?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work"/>
+</p>
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 BS Information Technology
-- 💡 Passionate about UI/UX and Human Computer Interaction
-- 🔧 Currently working on CRM Systems and AI Chatbots
-- 🌏 Based in the Philippines
+```yaml
+name:     Earl Sepida
+alias:    Nyzo0310
+location: Philippines 🌏
+degree:   BS Information Technology
+focus:    UI/UX Design & Modern Web Development
+passion:  Human-Computer Interaction
+status:   Building CRM Systems & AI Chatbots 🤖
+mindset:  "Clean code. Clean UI. Strong UX."
+```
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+- 🎓 **BS Information Technology** graduate
+- 💡 Deeply passionate about **UI/UX** and **Human-Computer Interaction**
+- 🔧 Currently building **CRM Systems** and **AI Chatbots**
+- 🌱 Always learning and exploring **new technologies**
+- 🤝 Open to **collaboration** and **freelance projects**
+- ⚡ Fun fact: I design before I code — always!
+
+<br clear="right"/>
 
 ---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,figma&theme=dark" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,python&theme=dark" />
+</p>
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+</p>
+
+</div>
+
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Analytics
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+<div align="center">
 
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+<a href="https://github.com/Nyzo0310">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyzo0310&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyzo0310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c4b5fd"/>
+</a>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode)
+<br/>
+
+<a href="https://github.com/Nyzo0310">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nyzo0310&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nyzo0310&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 LumiCHAT
-AI-powered mental health chatbot for students.
+<div align="center">
 
-Tech Stack:
-- Laravel
-- React
-- Rasa
-- MySQL
+| 🧠 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
+|:---|:---|:---|:---|
+| **LumiCHAT** 🤖 | AI-powered mental health chatbot for students — empathetic, supportive & intelligent | Laravel · React · Rasa · MySQL | [View →](https://github.com/Nyzo0310/Lumichat) |
+| **Refilling Station SMS** 💧 | Full-featured web app to manage & modernize refilling station operations | Laravel · Blade · MySQL | [View →](https://github.com/Nyzo0310/Refilling-Station-Sales-Monitoring-System) |
 
-### 💧 Refilling Station Sales Monitoring System
-Web-based system to manage refilling station operations.
-
-Tech Stack:
-- Laravel
-- Blade
-- MySQL
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 📈 Contribution Activity
 
-Frontend
-- React
-- Tailwind
-- JavaScript
-- HTML
-- CSS
+<div align="center">
 
-Backend
-- Laravel
-- PHP
-- MySQL
+<!-- Snake Animation (requires GitHub Actions — see below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nyzo0310/Nyzo0310/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nyzo0310/Nyzo0310/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Nyzo0310/Nyzo0310/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
-Tools
-- Git
-- GitHub
-- Figma
-- VS Code
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Nyzo0310&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyzo0310&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Nyzo0310
+<div align="center">
+
+<a href="https://github.com/Nyzo0310">
+  <img src="https://img.shields.io/badge/GitHub-Nyzo0310-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:earlsepida@email.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+</div>
+
+---
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:6e40c9&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  <sub>⭐️ Crafted with passion by <a href="https://github.com/Nyzo0310"><strong>Earl Sepida</strong></a> — Let's build something amazing together!</sub>
+</div>
