@@ -49,6 +49,27 @@ mindset:  "Clean code. Clean UI. Strong UX."
 
 ---
 
+## 🎯 2026 Goals & Specializations
+
+<div align="center">
+
+### 🚀 Specialized In
+<p>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-7c3aed?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX"/>
+  <img src="https://img.shields.io/badge/Frontend%20Architecture-4f46e5?style=for-the-badge&logo=react&logoColor=white" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/Fullstack%20Development-6e40c9?style=for-the-badge&logo=laravel&logoColor=white" alt="Fullstack"/>
+</p>
+
+### 🛠️ Currently Learning & Building
+- 🤖 **Advanced AI Integration** — Embedding LLMs into CRM workflows.
+- ⚡ **Next.js & Serverless** — Optimizing performance for enterprise apps.
+- 🧪 **Test-Driven Development** — Improving code reliability and scalability.
+- 🎨 **Framer Motion** — Adding complex micro-interactions to my UI.
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -96,6 +117,23 @@ mindset:  "Clean code. Clean UI. Strong UX."
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyzo0310&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
+
+---
+
+## 💎 Top Repositories
+
+<div align="center">
+
+<a href="https://github.com/Nyzo0310/Lumichat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nyzo0310&repo=Lumichat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd" alt="Lumichat Card"/>
+</a>
+<a href="https://github.com/Nyzo0310/Refilling-Station-Sales-Monitoring-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nyzo0310&repo=Refilling-Station-Sales-Monitoring-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd" alt="Refilling Station Card"/>
+</a>
+
+</div>
+
+---
 
 ---
 
