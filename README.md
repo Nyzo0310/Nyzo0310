@@ -10,7 +10,7 @@
 
 <!-- Integrated Action Bar -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2e1065&height=45&text=OJT%20Web%20Developer%20%20%7C%20%20Nyzo0310%20%20%7C%20%20Architectural%20Portfolio&fontSize=16&fontColor=a78bfa&fontAlignY=50" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2e1065&height=60&text=OJT%20Web%20Developer%20%20%7C%20%20Nyzo0310%20%20%7C%20%20Architectural%20Portfolio&fontSize=21&fontColor=a78bfa&fontAlignY=50" width="750"/>
 </div>
 
 <br/>
@@ -18,7 +18,7 @@
 <div align="center">
   <!-- Primary Call to Action -->
   <a href="https://personal-portfolio-xi-tan-21.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore%20Full%20Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=2e1065" alt="Visit Portfolio"/>
+    <img src="https://img.shields.io/badge/Explore%20Full%20Portfolio-2e1065?style=for-the-badge&logo=vercel&logoColor=a78bfa" alt="Visit Portfolio"/>
   </a>
 </div>
 
