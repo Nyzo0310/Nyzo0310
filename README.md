@@ -10,7 +10,7 @@
 
 <!-- Integrated Action Bar -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2e1065&height=45&text=OJT%20Web%20Developer%20%20%7C%20%20Nyzo0310%20%20%7C%20%20Reach%20%3A%2078&fontSize=16&fontColor=a78bfa&fontAlignY=50" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2e1065&height=45&text=OJT%20Web%20Developer%20%20%7C%20%20Nyzo0310%20%20%7C%20%20Architectural%20Portfolio&fontSize=16&fontColor=a78bfa&fontAlignY=50" width="600"/>
 </div>
 
 <br/>
