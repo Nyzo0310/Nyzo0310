@@ -15,13 +15,18 @@
 
 <br/>
 
-<!-- Primary Call to Action & Current Focus -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nyzo0310&label=Portfolio+Reach&color=2e1065&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
+  <!-- Primary Call to Action -->
   <a href="https://personal-portfolio-xi-tan-21.vercel.app/">
     <img src="https://img.shields.io/badge/Explore%20Full%20Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=2e1065" alt="Visit Portfolio"/>
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Supporting Information -->
+  <img src="https://komarev.com/ghpvc/?username=Nyzo0310&label=Portfolio+Reach&color=2e1065&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Current%20Focus-UI%20Architecture-2e1065?style=for-the-badge&logo=react&logoColor=a78bfa" alt="Current Focus"/>
 </div>
