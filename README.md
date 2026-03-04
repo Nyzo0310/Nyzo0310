@@ -12,7 +12,7 @@
 <p>
   <img src="https://img.shields.io/badge/Status-Hiring--Manager--Ready-2e1065?style=for-the-badge&logo=rocket&logoColor=a78bfa" alt="Hiring Manager Ready"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Nyzo0310?label=Network&style=for-the-badge&color=2e1065&logo=github&logoColor=a78bfa" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Network-Nyzo0310-2e1065?style=for-the-badge&logo=github&logoColor=a78bfa" alt="Network"/>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Nyzo0310&label=Portfolio+Reach&color=2e1065&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -48,17 +48,28 @@ location:       Philippines 🌏
 
 ### 🏛️ Architecture & UI/UX
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,figma&theme=light" style="filter: grayscale(100%) invert(1);" />
+  <img src="https://img.shields.io/badge/React-2e1065?style=for-the-badge&logo=react&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/TypeScript-2e1065?style=for-the-badge&logo=typescript&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/JavaScript-2e1065?style=for-the-badge&logo=javascript&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/TailwindCSS-2e1065?style=for-the-badge&logo=tailwindcss&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Figma-2e1065?style=for-the-badge&logo=figma&logoColor=a78bfa" />
 </p>
 
 ### ⚙️ Systems & Logic
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,python&theme=light" style="filter: grayscale(100%) invert(1);" />
+  <img src="https://img.shields.io/badge/Laravel-2e1065?style=for-the-badge&logo=laravel&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/PHP-2e1065?style=for-the-badge&logo=php&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/MySQL-2e1065?style=for-the-badge&logo=mysql&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Python-2e1065?style=for-the-badge&logo=python&logoColor=a78bfa" />
 </p>
 
 ### 🧰 Engineering Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash&theme=light" style="filter: grayscale(100%) invert(1);" />
+  <img src="https://img.shields.io/badge/Git-2e1065?style=for-the-badge&logo=git&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/GitHub-2e1065?style=for-the-badge&logo=github&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/VS%20Code-2e1065?style=for-the-badge&logo=visual-studio-code&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Postman-2e1065?style=for-the-badge&logo=postman&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Linux-2e1065?style=for-the-badge&logo=linux&logoColor=a78bfa" />
 </p>
 
 </div>
