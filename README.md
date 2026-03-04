@@ -40,10 +40,10 @@ tech_focus:     Scalable React Architectures | UI Pattern Design
 mindset:        "Engineering with a Designer's eye."
 ```
 
-- **Spearheading** developments as an OJT Web Developer, engineering high-performance CRM systems and scalable enterprise UI patterns.
-- **Architecting** production-grade interfaces with a primary focus on user retention, modularity, and atomic component libraries.
-- **Engineering** LLM integrations into enterprise-level workflows to automate complex human-computer interaction cycles.
-- **Synthesizing** the boundary between pixel-perfect UI/UX design and scalable, maintainable frontend architecture.
+- **Pioneering** developments as an OJT Web Developer, engineering high-performance CRM systems and scalable enterprise UI patterns.
+- **Architecting** high-performance interfaces with a primary focus on user retention, modularity, and atomic component libraries.
+- **Engineering** next-generation LLM integrations into enterprise-level workflows to automate complex human-computer interaction cycles.
+- **Synthesizing** the boundary between professional UI/UX design and scalable, maintainable frontend architecture.
 
 <br clear="right"/>
 
