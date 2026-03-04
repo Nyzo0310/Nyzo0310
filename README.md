@@ -44,19 +44,19 @@ mindset:        "Engineering with a Designer's eye."
 
 <br/>
 
-**Pioneering Developments** — Engineering high-performance CRM systems and scalable enterprise UI patterns.
+Frontend Engineering — Building responsive, maintainable interfaces using modern web technologies.
 
 <br/>
 
-**Architecting Interfaces** — Focusing on user retention, modularity, and atomic component libraries.
+UI/UX Development — Designing intuitive user experiences focused on clarity, usability, and accessibility.
 
 <br/>
 
-**Engineering AI Cycles** — Integrating next-generation LLM workflows into enterprise environments.
+Modern Web Applications — Developing scalable web systems using Laravel, React, and modern frontend patterns.
 
 <br/>
 
-**Synthesizing Design & Logic** — Bridging the gap between professional UI/UX design and scalable architecture.
+Design-Driven Development — Bridging visual design and functional code to deliver polished user interfaces.
 
 ---
 
