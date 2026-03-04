@@ -17,6 +17,13 @@
   <img src="https://komarev.com/ghpvc/?username=Nyzo0310&label=Portfolio+Reach&color=2e1065&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+<br/>
+
+<!-- Primary Call to Action -->
+<a href="https://personal-portfolio-xi-tan-21.vercel.app/">
+  <img src="https://img.shields.io/badge/Explore%20Full%20Portfolio-2e1065?style=for-the-badge&logo=vercel&logoColor=a78bfa" alt="Visit Portfolio"/>
+</a>
+
 </div>
 
 ---
