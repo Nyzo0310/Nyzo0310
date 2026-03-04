@@ -42,7 +42,7 @@
 </p>
 
 ```yaml
-role:           OJT Web Developer | UI/UX Architect
+role:           Frontend Developer | Laravel & React
 specialization: Frontend Engineering & UI/UX Systems
 experience:     Enterprise CRM & AI-Driven Applications
 tech_focus:     Scalable React Architectures | UI Pattern Design
