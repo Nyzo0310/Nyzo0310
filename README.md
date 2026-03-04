@@ -91,10 +91,10 @@ mindset:  "Clean code. Clean UI. Strong UX."
 
 ---
 
-## 🏆 GitHub Trophies
+## 📅 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nyzo0310&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyzo0310&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ---
