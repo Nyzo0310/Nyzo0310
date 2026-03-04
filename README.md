@@ -19,10 +19,16 @@
 
 <br/>
 
-<!-- Primary Call to Action -->
-<a href="https://personal-portfolio-xi-tan-21.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore%20Full%20Portfolio-2e1065?style=for-the-badge&logo=vercel&logoColor=a78bfa" alt="Visit Portfolio"/>
-</a>
+<br/>
+
+<!-- Primary Call to Action & Current Focus -->
+<p align="center">
+  <a href="https://personal-portfolio-xi-tan-21.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore%20Full%20Portfolio-2e1065?style=for-the-badge&logo=vercel&logoColor=a78bfa" alt="Visit Portfolio"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Current%20Focus-UI%20Architecture%20%26%20Design%20Systems-2e1065?style=for-the-badge&logo=react&logoColor=a78bfa" alt="Current Focus"/>
+</p>
 
 </div>
 
@@ -56,7 +62,22 @@ Modern Web Applications — Developing scalable web systems using Laravel, React
 
 <br/>
 
-Design-Driven Development — Bridging visual design and functional code to deliver polished user interfaces.
+**Synthesizing Design & Logic** — Bridging the gap between professional UI/UX design and scalable architecture.
+
+<br/>
+
+---
+
+## Architectural Values
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| **Performance First** | **User-Centricity** | **Scalability** |
+| Engineering for speed through clean code and optimized assets. | Designing intuitive user experiences focused on the human element. | Building modular, atomic systems that grow with the application. |
+
+</div>
 
 ---
 
