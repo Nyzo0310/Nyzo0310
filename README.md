@@ -114,8 +114,8 @@ mindset:        "Engineering with a Designer's eye."
 
 | System | Architectural Impact | Technology Stack |
 |:---|:---|:---|
-| **LumiCHAT** | Spearheaded a scalable mental health ecosystem processing AI-driven student support cycles and automated triage. | Laravel · React · Rasa AI · MySQL |
-| **Enterprise SMS** | Architected an enterprise-grade sales monitoring system automating supply-chain workflows and real-time data sync. | Laravel · Blade Patterns · High-Concurrency MySQL |
+| **LumiCHAT** | Spearheaded a scalable mental health ecosystem processing AI-driven student support cycles and automated triage. | Laravel, React, Rasa AI, MySQL |
+| **Enterprise SMS** | Architected an enterprise-grade sales monitoring system automating supply-chain workflows and real-time data sync. | Laravel, Blade Patterns, High-Concurrency MySQL |
 
 ---
 
@@ -162,5 +162,5 @@ mindset:        "Engineering with a Designer's eye."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:4c1d95,100:2e1065&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <sub>⭐️ Engineered for impact by <a href="https://github.com/Nyzo0310"><strong>Earl Sepida</strong></a> — Let's architect the future together.</sub>
+  <sub>Engineered for impact by <a href="https://github.com/Nyzo0310"><strong>Earl Sepida</strong></a> - Let's architect the future together.</sub>
 </div>
