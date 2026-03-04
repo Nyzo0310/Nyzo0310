@@ -51,19 +51,19 @@ mindset:        "Engineering with a Designer's eye."
 
 <br/>
 
-Frontend Engineering — Building responsive, maintainable interfaces using modern web technologies.
+Frontend Engineering — Architecting high-performance, atomic UI systems with a focus on cross-platform maintainability.
 
 <br/>
 
-UI/UX Development — Designing intuitive user experiences focused on clarity, usability, and accessibility.
+UI/UX Development — Engineering intuitive digital experiences where structural logic meets human-centric design.
 
 <br/>
 
-Modern Web Applications — Developing scalable web systems using Laravel, React, and modern frontend patterns.
+Modern Web Applications — Developing data-driven ecosystems using Laravel, React, and scalable enterprise patterns.
 
 <br/>
 
-**Synthesizing Design & Logic** — Bridging the gap between professional UI/UX design and scalable architecture.
+**Synthesizing Design & Logic** — Bridging the gap between high-fidelity UI/UX and scalable engineering architectures.
 
 <br/>
 
@@ -75,8 +75,8 @@ Modern Web Applications — Developing scalable web systems using Laravel, React
 
 | | | |
 |:---:|:---:|:---:|
-| **Performance First** | **User-Centricity** | **Scalability** |
-| Engineering for speed through clean code and optimized assets. | Designing intuitive user experiences focused on the human element. | Building modular, atomic systems that grow with the application. |
+| **Performance Engineering** | **Human-Centric Design** | **Modular Scalability** |
+| Prioritizing runtime efficiency through clean code and optimized asset delivery. | Engineering intuitive interfaces where structural logic meets the human element. | Building atomic, modular systems designed for exponential application growth. |
 
 </div>
 
