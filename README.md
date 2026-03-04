@@ -40,10 +40,10 @@ tech_focus:     Scalable React Architectures | UI Pattern Design
 mindset:        "Engineering with a Designer's eye."
 ```
 
-- **Currently scaling** as an OJT Web Developer, focused on high-performance CRM systems and enterprise-grade UI patterns.
-- **Architecting** interfaces with a focus on user retention and modular component libraries.
-- **Integrating** Large Language Models into enterprise workflows to automate complex human-computer interactions.
-- **Bridging** the gap between pixel-perfect design and production-grade code.
+- **Spearheading** developments as an OJT Web Developer, engineering high-performance CRM systems and scalable enterprise UI patterns.
+- **Architecting** production-grade interfaces with a primary focus on user retention, modularity, and atomic component libraries.
+- **Engineering** LLM integrations into enterprise-level workflows to automate complex human-computer interaction cycles.
+- **Synthesizing** the boundary between pixel-perfect UI/UX design and scalable, maintainable frontend architecture.
 
 <br clear="right"/>
 
@@ -112,10 +112,10 @@ mindset:        "Engineering with a Designer's eye."
 
 ## Key Initiatives
 
-| System | Impact | Technology |
+| System | Architectural Impact | Technology Stack |
 |:---|:---|:---|
-| **LumiCHAT** | Scalable mental health assistant processing AI-driven student support cycles. | Laravel · React · Rasa AI · MySQL |
-| **Enterprise SMS** | Enterprise-grade sales monitoring system automating supply-chain workflows. | Laravel · Blade Patterns · High-Concurrency MySQL |
+| **LumiCHAT** | Spearheaded a scalable mental health ecosystem processing AI-driven student support cycles and automated triage. | Laravel · React · Rasa AI · MySQL |
+| **Enterprise SMS** | Architected an enterprise-grade sales monitoring system automating supply-chain workflows and real-time data sync. | Laravel · Blade Patterns · High-Concurrency MySQL |
 
 ---
 
