@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:4c1d95,100:2e1065&height=220&section=header&text=Earl%20Sepida&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Laravel%20%26%20React&descSize=22&descAlignY=65&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:4c1d95,100:2e1065&height=220&section=header&text=Earl%20Sepida&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Laravel%20and%20React&descSize=22&descAlignY=65&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=45&lines=OJT+Web+Developer;Frontend+Engineer;UI%2FUX+Developer;Modern+Web+Applications;Design-Driven+Development" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 <!-- Integrated Action Bar -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2e1065&height=60&text=Frontend%20Developer%20%20%7C%20%20Laravel%20%26%20React%20%20%7C%20%20Architectural%20Portfolio&fontSize=21&fontColor=a78bfa&fontAlignY=50" width="750"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2e1065&height=60&text=Frontend%20Developer%20%20%7C%20%20Laravel%20and%20React%20%20%7C%20%20Architectural%20Portfolio&fontSize=21&fontColor=a78bfa&fontAlignY=50" width="750"/>
 </div>
 
 <br/>
