@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:4c1d95,100:2e1065&height=220&section=header&text=Earl%20Sepida&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Laravel%20and%20React&descSize=22&descAlignY=65&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=45&lines=OJT+Web+Developer;Frontend+Engineer;UI%2FUX+Developer;Modern+Web+Applications;Design-Driven+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Frontend+Developer;Laravel+and+React;UI%2FUX+Architect;Modern+Web+Applications;Design-Driven+Development" alt="Typing SVG" />
 
 <br/>
 
@@ -42,7 +42,7 @@
 </p>
 
 ```yaml
-role:           Frontend Developer | Laravel & React
+role:           Frontend Developer | Laravel and React
 specialization: Frontend Engineering & UI/UX Systems
 experience:     Enterprise CRM & AI-Driven Applications
 tech_focus:     Scalable React Architectures | UI Pattern Design
