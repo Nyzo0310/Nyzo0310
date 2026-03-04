@@ -8,27 +8,21 @@
 
 <br/>
 
-<!-- Professional Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Status-OJT%20Web%20Developer-2e1065?style=for-the-badge&logo=rocket&logoColor=a78bfa" alt="OJT Status"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Network-Nyzo0310-2e1065?style=for-the-badge&logo=github&logoColor=a78bfa" alt="Network"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Nyzo0310&label=Portfolio+Reach&color=2e1065&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<br/>
+<!-- Integrated Action Bar -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2e1065&height=40&text=OJT%20Web%20Developer%20%20%7C%20%20Nyzo0310%20%20%7C%20%20Reach%20%3A%2078&fontSize=16&fontColor=a78bfa&fontAlignY=50" width="600"/>
+</div>
 
 <br/>
 
 <!-- Primary Call to Action & Current Focus -->
-<p align="center">
+<div align="center">
   <a href="https://personal-portfolio-xi-tan-21.vercel.app/">
     <img src="https://img.shields.io/badge/Explore%20Full%20Portfolio-2e1065?style=for-the-badge&logo=vercel&logoColor=a78bfa" alt="Visit Portfolio"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Current%20Focus-UI%20Architecture%20%26%20Design%20Systems-2e1065?style=for-the-badge&logo=react&logoColor=a78bfa" alt="Current Focus"/>
-</p>
+  <img src="https://img.shields.io/badge/Current%20Focus-UI%20Architecture-a78bfa?style=for-the-badge&logo=react&logoColor=2e1065" alt="Current Focus"/>
+</div>
 
 </div>
 
