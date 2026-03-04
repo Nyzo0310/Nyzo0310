@@ -30,7 +30,9 @@
 
 ## Professional Overview
 
-<img align="right" alt="Engineering" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="opacity: 0.8;"/>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" style="border-radius: 10px; opacity: 0.9;"/>
+</p>
 
 ```yaml
 role:           OJT Web Developer | UI/UX Architect
@@ -40,25 +42,21 @@ tech_focus:     Scalable React Architectures | UI Pattern Design
 mindset:        "Engineering with a Designer's eye."
 ```
 
-**Pioneering Developments**
-Engineering high-performance CRM systems and scalable enterprise UI patterns as an OJT Web Developer.
+<br/>
+
+**Pioneering Developments** — Engineering high-performance CRM systems and scalable enterprise UI patterns.
 
 <br/>
 
-**Architecting Interfaces**
-Focusing on user retention, modularity, and atomic component libraries to deliver high-performance UI systems.
+**Architecting Interfaces** — Focusing on user retention, modularity, and atomic component libraries.
 
 <br/>
 
-**Engineering AI Cycles**
-Integrating next-generation LLM workflows into enterprise environments to automate complex human-computer interactions.
+**Engineering AI Cycles** — Integrating next-generation LLM workflows into enterprise environments.
 
 <br/>
 
-**Synthesizing Design & Logic**
-Bridging the gap between professional UI/UX design and scalable, maintainable frontend architecture.
-
-<br clear="right"/>
+**Synthesizing Design & Logic** — Bridging the gap between professional UI/UX design and scalable architecture.
 
 ---
 
