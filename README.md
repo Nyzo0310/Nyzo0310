@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:4c1d95,100:2e1065&height=220&section=header&text=Earl%20Sepida&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20UI%2FUX%20Architect&descSize=22&descAlignY=55&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:4c1d95,100:2e1065&height=220&section=header&text=Earl%20Sepida&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=OJT%20Engineering%20Trainee%20%7C%20UI%2FUX%20Architect&descSize=22&descAlignY=55&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Software+Engineer;UI%2FUX+Architect;Frontend+Specialist;Building+Scalable+CRM+Solutions;AI+Integration+Engineer" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 <!-- Professional Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Hiring--Manager--Ready-2e1065?style=for-the-badge&logo=rocket&logoColor=a78bfa" alt="Hiring Manager Ready"/>
+  <img src="https://img.shields.io/badge/Status-OJT%20Engineering%20Trainee-2e1065?style=for-the-badge&logo=rocket&logoColor=a78bfa" alt="OJT Status"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Network-Nyzo0310-2e1065?style=for-the-badge&logo=github&logoColor=a78bfa" alt="Network"/>
   &nbsp;
@@ -23,20 +23,20 @@
 
 ## 🎯 Professional Overview
 
-<img align="right" alt="Engineering" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="filter: grayscale(100%); opacity: 0.8;"/>
+<img align="right" alt="Engineering" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="opacity: 0.8;"/>
 
 ```yaml
+role:           OJT Engineering Trainee | UI/UX Architect
 specialization: Frontend Engineering & UI/UX Systems
 experience:     Enterprise CRM & AI-Driven Applications
 tech_focus:     Scalable React Architectures | UI Pattern Design
 mindset:        "Engineering with a Designer's eye."
-location:       Philippines 🌏
 ```
 
-- 💡 **Architecting** high-performance CRM systems with a focus on user retention and modularity.
+- 🚀 **Currently scaling** as an OJT Trainee, focused on high-performance CRM systems and enterprise-grade UI patterns.
+- 💡 **Architecting** interfaces with a focus on user retention and modular component libraries.
 - 🤖 **Integrating** Large Language Models into enterprise workflows to automate complex human-computer interactions.
 - 🎨 **Bridging** the gap between pixel-perfect design and production-grade code.
-- 🎓 **BS Information Technology** — Rooted in fundamental engineering principles.
 
 <br clear="right"/>
 
