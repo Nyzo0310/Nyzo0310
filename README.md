@@ -135,8 +135,12 @@ mindset:  "Clean code. Clean UI. Strong UX."
   <img src="https://img.shields.io/badge/GitHub-Nyzo0310-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
+<a href="https://personal-portfolio-xi-tan-21.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
 <a href="mailto:earlsepida@email.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-4f46e5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
