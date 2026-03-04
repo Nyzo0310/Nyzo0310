@@ -22,6 +22,8 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Current%20Focus-UI%20Architecture-a78bfa?style=for-the-badge&logo=react&logoColor=2e1065" alt="Current Focus"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Nyzo0310&label=Portfolio+Reach&color=2e1065&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 </div>
