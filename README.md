@@ -125,10 +125,10 @@ mindset:  "Clean code. Clean UI. Strong UX."
 <div align="center">
 
 <a href="https://github.com/Nyzo0310/Lumichat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nyzo0310&repo=Lumichat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd" alt="Lumichat Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Nyzo0310&repo=Lumichat&theme=tokyonight&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd" alt="Lumichat Card"/>
 </a>
 <a href="https://github.com/Nyzo0310/Refilling-Station-Sales-Monitoring-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nyzo0310&repo=Refilling-Station-Sales-Monitoring-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd" alt="Refilling Station Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Nyzo0310&repo=Refilling-Station-Sales-Monitoring-System&theme=tokyonight&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd" alt="Refilling Station Card"/>
 </a>
 
 </div>
