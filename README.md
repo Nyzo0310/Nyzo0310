@@ -21,7 +21,7 @@
 
 ---
 
-## 🎯 Professional Overview
+## Professional Overview
 
 <img align="right" alt="Engineering" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="opacity: 0.8;"/>
 
@@ -33,30 +33,30 @@ tech_focus:     Scalable React Architectures | UI Pattern Design
 mindset:        "Engineering with a Designer's eye."
 ```
 
-- 🚀 **Currently scaling** as an OJT Web Developer, focused on high-performance CRM systems and enterprise-grade UI patterns.
-- 💡 **Architecting** interfaces with a focus on user retention and modular component libraries.
-- 🤖 **Integrating** Large Language Models into enterprise workflows to automate complex human-computer interactions.
-- 🎨 **Bridging** the gap between pixel-perfect design and production-grade code.
+- **Currently scaling** as an OJT Web Developer, focused on high-performance CRM systems and enterprise-grade UI patterns.
+- **Architecting** interfaces with a focus on user retention and modular component libraries.
+- **Integrating** Large Language Models into enterprise workflows to automate complex human-computer interactions.
+- **Bridging** the gap between pixel-perfect design and production-grade code.
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
 
-### 🏛️ Architecture & UI/UX
+### Architecture & UI/UX
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,figma&theme=dark" />
 </p>
 
-### ⚙️ Systems & Logic
+### Systems & Logic
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,python&theme=dark" />
 </p>
 
-### 🧰 Engineering Tools
+### Engineering Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </p>
@@ -65,7 +65,7 @@ mindset:        "Engineering with a Designer's eye."
 
 ---
 
-## 📅 Precision Metrics
+## Precision Metrics
 
 <div align="center">
 
@@ -88,7 +88,7 @@ mindset:        "Engineering with a Designer's eye."
 
 ---
 
-## 💎 Strategic Repositories
+## Strategic Repositories
 
 <div align="center">
 
@@ -103,16 +103,16 @@ mindset:        "Engineering with a Designer's eye."
 
 ---
 
-## 🚀 Key Initiatives
+## Key Initiatives
 
-| 🧩 System | 🛡️ Impact | 🏛️ Technology |
+| System | Impact | Technology |
 |:---|:---|:---|
 | **LumiCHAT** | Scalable mental health assistant processing AI-driven student support cycles. | Laravel · React · Rasa AI · MySQL |
 | **Enterprise SMS** | Enterprise-grade sales monitoring system automating supply-chain workflows. | Laravel · Blade Patterns · High-Concurrency MySQL |
 
 ---
 
-## 📈 Engineering Pulse
+## Engineering Pulse
 
 <div align="center">
 
@@ -127,7 +127,7 @@ mindset:        "Engineering with a Designer's eye."
 
 ---
 
-## 📫 Strategic Contact
+## Strategic Contact
 
 <div align="center">
 
