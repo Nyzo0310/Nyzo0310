@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:7c3aed,100:4f46e5&height=200&section=header&text=Earl%20Sepida&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descSize=20&descAlignY=58&descColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation SVG -->
-<a href="https://github.com/Nyzo0310">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Earl+Sepida!;💻+Frontend+Developer;🎨+UI%2FUX+Enthusiast;🚀+Building+Modern+Web+Apps;🤖+Working+on+AI+%26+CRM+Systems" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=650&amp;height=40&amp;lines=Hello%2C+I%27m+Earl+Sepida!;Frontend+Developer+%7C+UIUX+Enthusiast;Building+Modern+Web+Apps;Working+on+AI+%26+CRM+Systems" alt="Typing SVG" />
 
 <br/>
 
