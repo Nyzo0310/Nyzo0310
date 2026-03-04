@@ -1,0 +1,16 @@
+{
+  "name": "nyzo0310-github-profile",
+  "version": "1.0.0",
+  "description": "Professional GitHub Profile README",
+  "scripts": {
+    "setup": "pip install grip",
+    "preview": "grip README.md --browser"
+  },
+  "keywords": [
+    "github-profile",
+    "portfolio",
+    "web-developer"
+  ],
+  "author": "Earl Sepida",
+  "license": "MIT"
+}
